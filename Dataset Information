@@ -1,0 +1,17 @@
+Dry beans classification
+
+Images of 13,611 grains of 7 different registered dry beans were taken with a high-resolution camera. A total of 16 features; 12 dimensions and 4 shape forms, were obtained from the grains.
+
+Introductory Paper:
+
+    "Multiclass classification of dry beans using computer vision and machine learning techniques"
+
+    By M. Koklu, Ilker Ali Özkan. 2020
+    Published in Computers and Electronics in Agriculture
+
+Link to the paper:
+https://www.semanticscholar.org/paper/e84c31138f2f261d15517d6b6bb8922c3fe597a1
+
+Link to the data set:
+https://archive.ics.uci.edu/dataset/602/dry+bean+dataset
+![Features_list Image](Features_list.png)
